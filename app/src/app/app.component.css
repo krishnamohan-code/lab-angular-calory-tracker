@@ -1,0 +1,10 @@
+header{
+    display: grid;
+    color: white;
+    background: orangered;
+    font-weight: bolder;
+    font-size: 1em;
+}
+h2{
+    margin-left: 20px;
+}
